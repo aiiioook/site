@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Dudu Calligraphy';
+    src: url('Dudu_Calligraphy.eot');
+    src: url('Dudu_Calligraphy.eot?#iefix') format('embedded-opentype'),
+        url('Dudu_Calligraphy.woff2') format('woff2'),
+        url('Dudu_Calligraphy.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
